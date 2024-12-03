@@ -1,6 +1,6 @@
 document.getElementById('downloadBtn').addEventListener('click', function() {
     // Path to the PDF file you want to allow the user to download
-    var pdfUrl = 'https://p-def6.pcloud.com/D4ZwH7H0GZ1rvh4h7ZtMFM7ZZQKIHXkZ2ZZeUHZkZw57pZBLZCYZa4ZdBD05Z929lL6lPJeycgxXNxeVhhzL9WdvX/AnansSw%20Certificate.PDF'; // Replace with your PDF file's URL
+    var pdfUrl = 'https://p-def7.pcloud.com/D4ZAFGJ0GZ2LfY4h7ZtMFM7ZZHLyzXkZ2ZZKcJZkZD1eZlYZO4Z54ZmjD05Z98nUNPY1M4QuNS6v4IxPNhSfXqWV/Anand%20Certificate.pdf'; // Replace with your PDF file's URL
 
     // Trigger the download
     var link = document.createElement('a');
